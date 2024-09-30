@@ -1,4 +1,6 @@
 # AWS Three Tier Web Architecture Workshop
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/d615eb84-d118-4c25-8ced-a7c1670a313c">
+
 
 ## Description: 
 This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually creating the necessary network, security, app, and database components and configurations in order to run this architecture in an available and scalable manner.
